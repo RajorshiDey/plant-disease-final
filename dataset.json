@@ -1,0 +1,602 @@
+[
+  {
+    "plant": "Tomato",
+    "disease": "Early Blight",
+    "symptoms": ["Dark spots with yellow halos", "Yellowing lower leaves", "Concentric rings in spots"],
+    "remedy": "Apply copper-based fungicides. Prune and remove infected lower leaves to prevent soil splash."
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Fusarium Wilt",
+    "symptoms": ["Wilting foliage", "Yellowing lower leaves", "Brown discoloration inside stem"],
+    "remedy": "Remove and destroy infected plants immediately. Plant resistant varieties next season and rotate crops."
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Late Blight",
+    "symptoms": ["Dark, water-soaked spots on leaves", "White fuzzy growth on undersides", "Rapid browning of fruit"],
+    "remedy": "Apply chlorothalonil immediately. Destroy severely infected plants. Ensure high airflow."
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "symptoms": ["Small circular spots with gray centers", "Yellowing lower leaves", "Premature leaf drop"],
+    "remedy": "Apply fungicidal sprays early in the season. Mulch around the base to prevent soil splashing."
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Blossom End Rot",
+    "symptoms": ["Black, sunken leathery spots on bottom of fruit", "Normal foliage"],
+    "remedy": "Maintain consistent soil moisture. Apply a calcium supplement to the soil or as a foliar spray."
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Tobacco Mosaic Virus",
+    "symptoms": ["Mottled light and dark green leaves", "Stunted growth", "Curled leaves"],
+    "remedy": "No cure. Uproot and destroy infected plants. Wash hands and tools thoroughly; avoid smoking near plants."
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Bacterial Speck",
+    "symptoms": ["Tiny black specks on leaves", "Tiny black specks on fruit", "Yellow halos around spots"],
+    "remedy": "Avoid overhead watering. Apply a fixed copper fungicide mixed with mancozeb."
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Anthracnose",
+    "symptoms": ["Sunken, water-soaked spots on ripe fruit", "Pinkish spore masses in center of spots"],
+    "remedy": "Harvest fruit as soon as it ripens. Apply preventative fungicides and rotate crops."
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Root-Knot Nematodes",
+    "symptoms": ["Stunted growth", "Wilting foliage during heat", "Swollen, knotted roots"],
+    "remedy": "Solarize soil in summer. Plant marigolds as a deterrent. Use nematode-resistant tomato varieties."
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Spider Mites",
+    "symptoms": ["Tiny yellow speckling on leaves", "Fine webbing on undersides of leaves", "Leaves turning dry and bronze"],
+    "remedy": "Spray plants with a strong stream of water. Apply insecticidal soap or neem oil every 7 days."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Late Blight",
+    "symptoms": ["Dark, water-soaked spots on leaves", "White fuzzy growth on undersides", "Brown lesions on tubers"],
+    "remedy": "Apply chlorothalonil fungicide. Ensure proper plant spacing for airflow. Do not compost infected tubers."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Potato Scab",
+    "symptoms": ["Rough, corky lesions on tubers", "Normal foliage"],
+    "remedy": "Lower soil pH to between 5.0 and 5.2. Avoid using fresh manure, and ensure consistent watering."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Black Scurf",
+    "symptoms": ["Hard black raised masses on tubers", "Stunted growth", "Brown cankers on underground stems"],
+    "remedy": "Plant certified disease-free seed potatoes. Delay planting until soil warms up to speed emergence."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Colorado Potato Beetle",
+    "symptoms": ["Defoliated plants", "Orange eggs under leaves", "Red, hump-backed larvae on leaves"],
+    "remedy": "Handpick beetles and larvae. Apply Spinosad or Bacillus thuringiensis (Bt) targeted at young larvae."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Potato Virus Y",
+    "symptoms": ["Mottled light and dark green leaves", "Wrinkled or puckered leaves", "Stunted growth"],
+    "remedy": "No cure. Remove infected plants to prevent aphid transmission. Use certified seed potatoes."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Blackleg",
+    "symptoms": ["Black, slimy rotting at the stem base", "Wilting foliage", "Yellowing upper leaves"],
+    "remedy": "Improve soil drainage. Avoid planting in cold, wet soils. Remove and destroy infected plants."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Fusarium Dry Rot",
+    "symptoms": ["Wrinkled, sunken areas on tubers in storage", "White or pink mold on tuber surface", "Internal brown rot"],
+    "remedy": "Handle tubers carefully during harvest to prevent bruising. Cure potatoes properly before long-term storage."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Silver Scurf",
+    "symptoms": ["Silvery patches on tuber skin", "Shriveling of tubers in storage"],
+    "remedy": "Harvest promptly after vines die. Maintain proper humidity and cool temperatures in storage."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Wireworms",
+    "symptoms": ["Holes bored into tubers", "Wilting foliage", "Thin yellow worms in soil"],
+    "remedy": "Rotate crops away from grasses. Cultivate soil thoroughly before planting to expose larvae to birds."
+  },
+  {
+    "plant": "Potato",
+    "disease": "Early Blight",
+    "symptoms": ["Dark spots with yellow halos", "Concentric rings in spots", "Yellowing lower leaves"],
+    "remedy": "Apply preventative fungicides. Keep plants healthy with proper nutrition to resist infection."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Bacterial Spot",
+    "symptoms": ["Small, water-soaked spots on leaves", "Spots turn brown and leave holes", "Raised, scabby spots on fruit"],
+    "remedy": "Use copper-based bactericides. Avoid overhead watering. Rotate crops away from nightshades."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Phytophthora Blight",
+    "symptoms": ["Wilting foliage", "Dark brown lesions on stem base", "White fungal growth on rotting fruit"],
+    "remedy": "Improve soil drainage aggressively. Plant on raised beds. Remove affected plants immediately."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Blossom End Rot",
+    "symptoms": ["Black, sunken leathery spots on bottom of fruit", "Normal foliage"],
+    "remedy": "Ensure even watering. Apply calcium spray to foliage or amend soil with lime before planting."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Cucumber Mosaic Virus",
+    "symptoms": ["Mottled light and dark green leaves", "Stunted growth", "Distorted, small fruit", "Curled leaves"],
+    "remedy": "Control aphid populations which spread the virus. Remove weeds. Destroy infected plants."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Sunscald",
+    "symptoms": ["Pale, papery patches on fruit exposed to sun", "Patches turn sunken and white"],
+    "remedy": "Maintain a healthy foliage canopy to shade the fruit. Avoid heavy pruning. Provide artificial shade if necessary."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Cercospora Leaf Spot",
+    "symptoms": ["Large circular spots with light gray centers", "Dark brown borders on spots", "Premature leaf drop"],
+    "remedy": "Apply copper fungicides. Remove plant debris at the end of the season. Ensure good spacing."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Broad Mites",
+    "symptoms": ["Downward curled leaves", "Thickened, brittle leaves", "Stunted growth"],
+    "remedy": "Apply sulfur or insecticidal soap. Often requires magnification to see pests; treat preemptively if symptoms appear."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Southern Blight",
+    "symptoms": ["Wilting foliage", "White fungal threads at soil line", "Small, mustard-seed-like structures at stem base"],
+    "remedy": "Deep plow soil to bury sclerotia. Remove infected plants and surrounding soil. Avoid excessive organic matter on the surface."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Root-Knot Nematodes",
+    "symptoms": ["Stunted growth", "Wilting foliage during heat", "Swollen, knotted roots"],
+    "remedy": "Plant nematode-resistant varieties. Use crop rotation with non-hosts like corn."
+  },
+  {
+    "plant": "Pepper",
+    "disease": "Anthracnose",
+    "symptoms": ["Sunken, water-soaked spots on ripe fruit", "Pinkish spore masses in center of spots"],
+    "remedy": "Use disease-free seed. Apply preventative fungicides during warm, wet weather."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Powdery Mildew",
+    "symptoms": ["White powdery patches", "Yellowing leaves", "Premature leaf drop"],
+    "remedy": "Apply neem oil, sulfur, or potassium bicarbonate sprays. Ensure good air circulation."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Downy Mildew",
+    "symptoms": ["Angular yellow spots on leaves", "Purple-gray fuzz on undersides of leaves", "Leaves turning dry and bronze"],
+    "remedy": "Apply specific downy mildew fungicides. Avoid overhead watering. Plant resistant varieties."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Bacterial Wilt",
+    "symptoms": ["Wilting foliage", "Sticky, stringy sap when stem is cut", "Cucumber beetles present"],
+    "remedy": "Control cucumber beetles early in the season with row covers or insecticides. Destroy infected plants."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Angular Leaf Spot",
+    "symptoms": ["Angular water-soaked spots on leaves", "Spots dry and fall out leaving holes", "White exudate on spots during high humidity"],
+    "remedy": "Use copper-based bactericides. Avoid working in the garden when plants are wet to prevent spread."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Cucumber Mosaic Virus",
+    "symptoms": ["Mottled light and dark green leaves", "Distorted, small fruit", "Stunted growth"],
+    "remedy": "Control aphids. Remove infected plants immediately. Use resistant varieties."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Gummy Stem Blight",
+    "symptoms": ["Brown lesions on stem base", "Oozing gummy sap from stems", "Dark spots on leaves"],
+    "remedy": "Apply chlorothalonil. Rotate crops. Do not save seed from infected plants."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Target Spot",
+    "symptoms": ["Small circular spots with light brown centers", "Concentric rings in spots", "Yellowing leaves"],
+    "remedy": "Improve ventilation in greenhouses. Apply appropriate fungicides. Avoid overhead irrigation."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Squash Bugs",
+    "symptoms": ["Wilting foliage", "Brown shield-shaped bugs", "Bronze egg clusters under leaves"],
+    "remedy": "Handpick bugs and crush eggs. Apply neem oil to nymphs. Trap adults under boards overnight and destroy."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Aphids",
+    "symptoms": ["Sticky honeydew residue", "Curled leaves", "Tiny green insects on buds"],
+    "remedy": "Spray with strong water blast. Introduce ladybugs. Use insecticidal soap."
+  },
+  {
+    "plant": "Cucumber",
+    "disease": "Fusarium Wilt",
+    "symptoms": ["Wilting foliage", "Yellowing leaves, often starting on one side", "Brown discoloration inside stem"],
+    "remedy": "Use resistant varieties. Maintain soil pH between 6.5 and 7.0. Avoid excessive nitrogen."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Powdery Mildew",
+    "symptoms": ["White powdery patches", "Yellowing leaves", "Premature leaf drop"],
+    "remedy": "Apply neem oil or sulfur spray. Plant resistant varieties. Prune overlapping leaves to increase airflow."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Squash Vine Borer",
+    "symptoms": ["Wilting foliage", "Sawdust-like frass near base of stem", "Holes bored into lower stem"],
+    "remedy": "Slit stem vertically to find and kill the white grub. Bury damaged stem under soil to encourage new roots. Use row covers early."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Blossom End Rot",
+    "symptoms": ["Black, sunken leathery spots on bottom of fruit", "Normal foliage"],
+    "remedy": "Maintain consistent watering. Mulch soil to retain moisture. Test soil for calcium deficiency."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Downy Mildew",
+    "symptoms": ["Angular yellow spots on leaves", "Purple-gray fuzz on undersides of leaves"],
+    "remedy": "Apply targeted fungicides. Water at the base of the plant only. Destroy infected debris."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Zucchini Yellow Mosaic Virus",
+    "symptoms": ["Mottled light and dark green leaves", "Distorted, blistered fruit", "Stunted growth"],
+    "remedy": "Manage aphid vectors. Destroy infected plants immediately. Keep weed hosts clear from garden borders."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Choanephora Fruit Rot",
+    "symptoms": ["Soft, wet rot on blossoms and young fruit", "Fuzzy fungal growth resembling black pins"],
+    "remedy": "Avoid overhead watering. Space plants well. Remove aborted or rotting fruit immediately."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Aster Yellows",
+    "symptoms": ["Yellowing leaves", "Distorted, small fruit", "Green, leaf-like flowers"],
+    "remedy": "Control leafhopper insects which spread the phytoplasma. Remove and destroy infected plants."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Scab",
+    "symptoms": ["Sunken, crater-like spots on fruit", "Olive-green fungal growth in spots", "Gummy exudate from fruit"],
+    "remedy": "Use resistant varieties. Apply preventative fungicides during cool, moist weather."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Fusarium Crown Rot",
+    "symptoms": ["Yellowing leaves", "Wilting foliage", "Soft rot at the crown/stem base"],
+    "remedy": "Rotate crops for at least 3 years. Ensure excellent soil drainage. Treat seed with fungicide before planting."
+  },
+  {
+    "plant": "Squash",
+    "disease": "Spider Mites",
+    "symptoms": ["Tiny yellow speckling on leaves", "Fine webbing on undersides of leaves", "Leaves turning dry and bronze"],
+    "remedy": "Apply horticultural oils or insecticidal soap. Keep plants well-watered, as mites thrive on drought-stressed plants."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Apple Scab",
+    "symptoms": ["Olive-green spots on leaves", "Dark, scaly lesions on fruit", "Premature leaf drop"],
+    "remedy": "Rake up and destroy fallen leaves in autumn. Apply preventative fungicide sprays in early spring."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Fire Blight",
+    "symptoms": ["Branches appear scorched or burned", "Wilting foliage", "Oozing gummy sap from stems", "Hook-shaped tips on young shoots"],
+    "remedy": "Prune out infected branches 8 inches below visible damage during dry weather. Sterilize tools between cuts. Apply copper sprays during dormancy."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Cedar Apple Rust",
+    "symptoms": ["Yellow-orange spots on leaves", "Orange, gelatinous horns on nearby juniper trees", "Premature leaf drop"],
+    "remedy": "Remove nearby eastern red cedar/juniper hosts. Apply preventative fungicides starting at blossom stage."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Powdery Mildew",
+    "symptoms": ["White powdery patches", "Curled leaves", "Stunted growth"],
+    "remedy": "Prune canopy to increase airflow. Apply sulfur-based fungicides or myclobutanil early in the season."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Black Rot",
+    "symptoms": ["Dark brown lesions on fruit with concentric rings", "Frog-eye pattern on leaves (purple margin with light center)", "Cankers on branches"],
+    "remedy": "Remove dead wood and mummified fruit during winter. Apply Captan or other protective fungicides."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Sooty Blotch and Flyspeck",
+    "symptoms": ["Smudgy black patches on fruit surface", "Tiny black specks grouped on fruit skin"],
+    "remedy": "Prune for better air circulation and sunlight penetration. Apply fungicides during late summer humid periods."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Codling Moth",
+    "symptoms": ["Holes bored into fruit", "Sawdust-like frass near base of stem or fruit core", "Premature fruit drop"],
+    "remedy": "Hang pheromone traps. Bag young fruit. Apply targeted insecticides timed with moth hatching."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Crown Gall",
+    "symptoms": ["Large, woody, tumor-like growths at soil line", "Stunted growth", "Poor fruit yield"],
+    "remedy": "No cure once infected. Inspect nursery stock carefully before planting. Avoid injuring bark near the soil."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Aphids",
+    "symptoms": ["Curled leaves", "Sticky honeydew residue", "Sooty mold growing on honeydew"],
+    "remedy": "Apply dormant oil in late winter to smother eggs. Use insecticidal soap during the growing season."
+  },
+  {
+    "plant": "Apple Tree",
+    "disease": "Bitter Pit",
+    "symptoms": ["Sunken, dark spots on the fruit surface", "Brown, corky tissue under the fruit skin", "Normal foliage"],
+    "remedy": "Maintain consistent soil moisture. Apply foliar calcium sprays during fruit development. Avoid excessive nitrogen."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Citrus Canker",
+    "symptoms": ["Raised, corky lesions with yellow halos on leaves", "Lesions on fruit and stems", "Premature leaf drop"],
+    "remedy": "Highly contagious. Use copper sprays to protect new flush. Destroy severely infected trees if mandated by local agriculture boards."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Citrus Greening (HLB)",
+    "symptoms": ["Mottled light and dark green leaves", "Misshapen, bitter fruit", "Fruit drops prematurely", "Twig dieback"],
+    "remedy": "No cure. Control the Asian Citrus Psyllid vector with insecticides. Apply specialized nutrient foliar sprays to prolong tree life. Remove declining trees."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Greasy Spot",
+    "symptoms": ["Yellow-brown blister-like spots on leaves", "Spots turn dark and greasy looking", "Premature leaf drop in winter"],
+    "remedy": "Apply copper fungicides or horticultural oils in mid-summer to protect new leaf flushes."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Melanose",
+    "symptoms": ["Tiny, raised reddish-brown pustules on leaves and fruit", "Sandpaper-like texture on fruit skin"],
+    "remedy": "Prune out dead wood where the fungus survives. Apply copper fungicide 2-3 weeks after petal fall."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Sooty Mold",
+    "symptoms": ["Black, powdery mold coating leaves and fruit", "Sticky honeydew residue", "Presence of aphids, whiteflies, or scale"],
+    "remedy": "The mold is harmless but blocks sunlight. Treat the underlying insect infestation (aphids/scale) with horticultural oil or soap. The mold will wash away over time."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Phytophthora Foot Rot",
+    "symptoms": ["Bark peeling and gumming at the soil line", "Yellowing canopy", "Dieback of branches"],
+    "remedy": "Keep soil pulled away from the graft union. Improve drainage. Apply systemic fungicides like Aliette or Ridomil."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Citrus Tristeza Virus",
+    "symptoms": ["Stunted growth", "Yellowing canopy", "Quick decline and death of the tree", "Pitting on wood under the bark"],
+    "remedy": "Use virus-free budwood grafted onto resistant rootstocks (like trifoliate orange). Control aphids."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Citrus Scab",
+    "symptoms": ["Raised, warty lesions on fruit and leaves", "Distorted young leaves"],
+    "remedy": "Apply preventative copper or ferbam sprays during early spring flush and again at petal fall."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Citrus Leafminer",
+    "symptoms": ["Silvery, winding trails mined into leaves", "Curled leaves", "Distorted young foliage"],
+    "remedy": "Apply Spinosad or horticultural oils. Mature trees tolerate damage well, but young trees need protection."
+  },
+  {
+    "plant": "Citrus",
+    "disease": "Brown Rot",
+    "symptoms": ["Light brown, leathery rot on fruit, primarily lower canopy", "Pungent odor from rotting fruit"],
+    "remedy": "Prune tree skirts 24 inches above the ground. Apply copper sprays to the lower canopy before heavy winter rains."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Black Spot",
+    "symptoms": ["Black spots on leaves", "Yellowing lower leaves", "Premature leaf drop"],
+    "remedy": "Avoid overhead watering to keep foliage dry. Spray with neem oil or a systemic fungicide."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Powdery Mildew",
+    "symptoms": ["White powdery patches", "Curled leaves", "Stunted growth"],
+    "remedy": "Improve air circulation. Apply sulfur-based sprays or potassium bicarbonate."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Rose Rosette Disease",
+    "symptoms": ["Excessive thorny growth", "Thick, clustered red shoots (witch's broom)", "Distorted flowers"],
+    "remedy": "Fatal virus spread by microscopic mites. Immediately dig up and bag the entire plant, including roots. Do not compost."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Downy Mildew",
+    "symptoms": ["Purple or red angular spots on leaves", "Yellowing leaves", "Rapid leaf drop"],
+    "remedy": "Requires specific fungicides (not the same as powdery mildew). Ensure excellent airflow and dry foliage."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Rust",
+    "symptoms": ["Orange, powdery pustules on undersides of leaves", "Yellow spots on upper leaf surfaces"],
+    "remedy": "Remove infected leaves. Apply preventative fungicides containing myclobutanil or tebuconazole."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Botrytis Blight",
+    "symptoms": ["Brown spots on flower petals", "Fuzzy gray mold on buds", "Buds fail to open"],
+    "remedy": "Remove spent blooms promptly. Avoid wetting flowers. Space plants for airflow."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Rose Mosaic Virus",
+    "symptoms": ["Wavy yellow lines or rings on leaves", "Mottled light and dark green leaves", "Reduced vigor"],
+    "remedy": "No cure. Usually not fatal but reduces aesthetics and cold hardiness. Replace plant if decline is severe. Buy certified virus-free stock."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Aphids",
+    "symptoms": ["Sticky honeydew residue", "Tiny green insects on buds", "Curled leaves"],
+    "remedy": "Wash aphids off with a strong blast of water. Apply insecticidal soap or introduce ladybugs."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Japanese Beetles",
+    "symptoms": ["Leaves skeletonized (only leaf veins remain)", "Metallic green and copper beetles present", "Damaged flower blooms"],
+    "remedy": "Handpick beetles into soapy water in early morning. Use row covers. Avoid pheromone traps as they attract more beetles."
+  },
+  {
+    "plant": "Rose",
+    "disease": "Spider Mites",
+    "symptoms": ["Tiny yellow speckling on leaves", "Fine webbing on undersides of leaves", "Leaves turning dry and bronze"],
+    "remedy": "Spray plants aggressively with water to dislodge. Apply horticultural oil if infestation is severe."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Black Rot",
+    "symptoms": ["Light brown spots with dark borders on leaves", "Grapes turn into hard, black mummies", "Black specks in leaf lesions"],
+    "remedy": "Remove all mummified fruit during winter. Apply Captan or myclobutanil from bud break until grapes begin to color."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Powdery Mildew",
+    "symptoms": ["White powdery patches", "Stunted growth", "Splitting berries"],
+    "remedy": "Prune canopy for sunlight penetration. Apply sulfur or specialized fungicides routinely through the season."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Downy Mildew",
+    "symptoms": ["Yellowish oily spots on upper leaf surface", "White, cottony growth on leaf undersides", "Shriveled young berries"],
+    "remedy": "Apply copper-based fungicides. Ensure excellent drainage and airflow. Remove infected fallen leaves."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Botrytis Bunch Rot",
+    "symptoms": ["Fuzzy gray mold on ripening grapes", "Rotting fruit clusters", "Berries splitting and leaking"],
+    "remedy": "Open up the fruiting zone by removing leaves around clusters. Apply specific botryticides during bloom, bunch closure, and veraison."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Pierce's Disease",
+    "symptoms": ["Leaf margins turn yellow or red, then dry up", "Shriveled fruit clusters", "Matchstick petioles (leaves drop but stems stay)"],
+    "remedy": "No cure. Fatal bacterial disease spread by sharpshooter insects. Remove infected vines. Control weed hosts nearby."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Phomopsis Cane and Leaf Spot",
+    "symptoms": ["Tiny dark spots with yellow halos on leaves", "Dark, cracked lesions on canes", "Fruit rot near harvest"],
+    "remedy": "Prune out infected canes during winter. Apply protective fungicides starting at early shoot growth."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Grape Berry Moth",
+    "symptoms": ["Webbing among grape berries", "Holes bored into fruit", "Premature ripening and splitting of fruit"],
+    "remedy": "Use pheromone disruption ties. Spray targeted insecticides (like Bt) just as eggs hatch."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Crown Gall",
+    "symptoms": ["Large, woody, tumor-like growths on trunk or vines", "Stunted growth"],
+    "remedy": "Protect trunks from freeze injury, which allows bacteria to enter. Prune below galls and train a new trunk if possible, or replace vine."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Leafroll Virus",
+    "symptoms": ["Downward rolled leaf margins", "Leaves turn red or yellow in late summer but veins stay green", "Delayed fruit ripening"],
+    "remedy": "No cure. Spread by mealybugs. Plant certified virus-free vines. Remove infected vines if establishing a new vineyard."
+  },
+  {
+    "plant": "Grape",
+    "disease": "Erinose Mites",
+    "symptoms": ["Blister-like swellings on upper leaf surface", "White, felt-like fuzz on undersides of blisters"],
+    "remedy": "Damage is mostly cosmetic and rarely requires chemical treatment. Sulfur sprays for powdery mildew usually suppress mites."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Gray Mold (Botrytis)",
+    "symptoms": ["Fuzzy gray mold on ripening fruit", "Brown, rotting berries", "Blossom blight"],
+    "remedy": "Space plants for airflow. Grow on plastic mulch or straw to keep fruit off wet soil. Apply fungicides during bloom."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Powdery Mildew",
+    "symptoms": ["Upward curled leaves", "White powdery patches on undersides", "Purplish spots on upper leaves"],
+    "remedy": "Apply sulfur or potassium bicarbonate. Plant in full sun. Avoid excessive nitrogen fertilizer."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Red Stele Root Rot",
+    "symptoms": ["Stunted growth", "Wilting foliage", "Roots have a reddish-brown core when sliced open"],
+    "remedy": "Improve soil drainage dramatically. Plant on raised beds. Use resistant varieties. Do not replant in infected soil."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Leaf Spot",
+    "symptoms": ["Small spots with light gray centers and dark purple borders", "Leaves drying out"],
+    "remedy": "Remove severely infected leaves. Apply copper-based fungicides. Renew strawberry beds every few years."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Leather Rot",
+    "symptoms": ["Dull, tough, leathery texture on fruit", "Bitter-tasting berries", "Pungent odor from rotting fruit"],
+    "remedy": "Prevent soil from splashing onto fruit using mulch. Ensure good drainage. Apply fosetyl-al or mefenoxam."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Anthracnose",
+    "symptoms": ["Sunken, dark circular spots on fruit", "Pinkish spore masses in center of spots", "Black lesions on runners"],
+    "remedy": "Use disease-free transplants. Apply captan or pyraclostrobin. Avoid overhead irrigation."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Verticillium Wilt",
+    "symptoms": ["Wilting foliage, older leaves first", "Brown dry margins on leaves", "Stunted growth"],
+    "remedy": "Do not plant strawberries where tomatoes, potatoes, or peppers were recently grown. Use resistant varieties."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Slugs and Snails",
+    "symptoms": ["Large ragged holes in leaves", "Holes bored into fruit", "Silvery slime trails"],
+    "remedy": "Use iron phosphate bait pellets. Handpick at night. Trap with shallow saucers of beer."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Tarnished Plant Bug",
+    "symptoms": ["Deformed, nubby 'cat-faced' fruit", "Seeds crowded at the tip of the berry"],
+    "remedy": "Keep weeds mowed around the berry patch. Apply insecticides or insecticidal soap before blooms open."
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Spider Mites",
+    "symptoms": ["Tiny yellow speckling on leaves", "Fine webbing on undersides of leaves", "Leaves turning dry and bronze"],
+    "remedy": "Release predatory mites. Apply horticultural oils. Maintain consistent watering."
+  }
+]
